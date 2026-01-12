@@ -1,6 +1,6 @@
 version: "3"
 services:
-  cinema:
+  app:
     build:
       context: .
     ports:
